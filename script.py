@@ -10,3 +10,7 @@ c = b + a
 
 #vesrion 3
 print(c)
+
+#version 4
+
+print(a+b+c)
