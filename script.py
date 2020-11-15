@@ -18,3 +18,7 @@ print(a+b+c)
 print(a*2+b*3+c*3)
 #version 5
 matrix = pd.DataFrame()
+
+
+#version N
+e = "sting"
